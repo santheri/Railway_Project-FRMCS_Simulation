@@ -26,7 +26,7 @@ public class Trigger : MonoBehaviour
         
         //Renderer render = GetComponent<Renderer>();
         //render.material.color = Color.green;
-        SceneManager.LoadScene("DemoScene", LoadSceneMode.Additive);
+        SceneManager.LoadScene("DemoScene", LoadSceneMode.Single);
 
     }
        
