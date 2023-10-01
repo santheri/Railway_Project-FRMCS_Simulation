@@ -1,5 +1,5 @@
 # Railway_Project-FRMCS_Simulation
-> Real time visualization of Trains, Signals, Tracks and Level crossings using FRMCS technology for Indian Railways < <br>
+Real time visualization of Trains, Signals, Tracks and Level crossings using FRMCS technology for Indian Railways <br>
 ##Installation detials
   clone this repository using github desktop app
   go to file>clone repository>Raizelen/Railway_Project-FRMCS_Simulation <br>
