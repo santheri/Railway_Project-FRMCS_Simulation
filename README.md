@@ -2,11 +2,11 @@
 \t Real time visualization of Trains, Signals, Tracks and Level crossings using FRMCS technology for Indian Railways
 ##Installation detials
 - clone this repository using github desktop app
-  go to file>clone repository>Raizelen/Railway_Project-FRMCS_Simulation
--set local path to desired location (its better keep in drive with bigger size as project grows unity will genereate some temperory files that take up space)
--open Unity Hub in install tab make sure version is set to LTS 2022.3.10f1
--go to project open button on upper right corner and locate the cloned repository you did earlier using github desktop app
--it will open project in unity and will automatically added to project list on Unity Hub
+  go to file>clone repository>Raizelen/Railway_Project-FRMCS_Simulation <br>
+-set local path to desired location (its better keep in drive with bigger size as project grows unity will genereate some temperory files that take up space)<br>
+-open Unity Hub in install tab make sure version is set to LTS 2022.3.10f1<br>
+-go to project open button on upper right corner and locate the cloned repository you did earlier using github desktop app<br>
+-it will open project in unity and will automatically added to project list on Unity Hub<br>
 ## Loco Pilot Scenario
 
 ### Assumptions
