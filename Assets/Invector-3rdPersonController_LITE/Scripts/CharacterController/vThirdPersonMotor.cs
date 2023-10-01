@@ -105,6 +105,10 @@ namespace Invector.vCharacterController
 
         #endregion
 
+        public void Start()
+        {
+            Cursor.visible = false;
+        }
         public void Init()
         {
             animator = GetComponent<Animator>();
